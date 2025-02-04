@@ -1,2 +1,2 @@
 db.username=harsha
-db.password=![asdfsadfdsafsaf==]
+db.password=REDACTED
